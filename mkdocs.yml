@@ -1,0 +1,12 @@
+site_name: Amethyst.Documentation
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue
+    accent: indigo
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
