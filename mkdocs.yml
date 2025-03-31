@@ -1,21 +1,17 @@
 site_name: Amethyst Documentation
 
+repo_url: https://github.com/realms-developers/Amethyst.API/
+repo_name: Amethyst.API
+
 theme:
-  language: en
   name: material
   palette:
     scheme: slate
     primary: purple
-    accent: indigo
-
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Русский
-      link: /ru/
-      lang: ru
+    accent: deep purple
+  icon:
+    logo: fontawesome/regular/gem
+    repo: fontawesome/brands/github
 
 markdown_extensions:
   - pymdownx.superfences
@@ -23,7 +19,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   
 plugins:
+  - search
   - i18n:
+      reconfigure_material: true
       docs_structure: folder
       languages:
         - locale: en
