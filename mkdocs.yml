@@ -1,12 +1,35 @@
-site_name: Amethyst.Documentation
+site_name: Amethyst Documentation
+
 theme:
+  language: en
   name: material
   palette:
     scheme: slate
-    primary: blue
+    primary: purple
     accent: indigo
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Русский
+      link: /ru/
+      lang: ru
 
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
+  
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: ru
+          name: Русский
+          build: true
