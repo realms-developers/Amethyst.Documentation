@@ -6,12 +6,12 @@ Amethyst имеет встроенную локализацию, если не �
 
 ```
 ├── en-US
-│   ├── en-US.amethyst.json
-│   ├── en-US.commands.desc.json
-│   ├── en-US.commands.json
-│   ├── en-US.commands.text.json
+│   ├── en-US.amethyst.json
+│   ├── en-US.commands.desc.json
+│   ├── en-US.commands.json
+│   ├── en-US.commands.text.json
 │   ├── en-US.network.json
-│   └── en-US.packet.json
+│   └── en-US.packet.json
 └── ru-RU
     ├── ru-RU.amethyst.json
     ├── ru-RU.commands.desc.json
@@ -32,7 +32,7 @@ Amethyst имеет встроенную локализацию, если не �
 
 ```cs
 [ServerCommand(CommandType.Shared, "lang la", "set lingua latina.", null)]
-public static void LangRU(CommandInvokeContext ctx)
+public static void Latin(CommandInvokeContext ctx)
 {
     ctx.Sender.Language = "la-NA";
     ctx.Sender.ReplySuccess("Num quis hoc legit?");
