@@ -2,7 +2,7 @@
 
 В `TerrariaAPI.dll` присутствует пространство имен `Terraria.ID`, которое может быть использовано в плагинах.
 
-На примере `LiquidID`:
+На примере `Terraria.ID.LiquidID`:
 
 ```cs
 namespace Terraria.ID;

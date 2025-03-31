@@ -1,6 +1,6 @@
 # Использование MongoDB
 
-Основная база данных которая используется в Amethyst - MongoDB. Amethyst предоставляет удобное и быстрое использование этой базы данных.
+Основная база данных, которая используется в Amethyst - MongoDB. Amethyst предоставляет удобное и быстрое использование этой базы данных.
 
 Чтобы использовать эту базу данных, необходимо создать класс, который наследует `DataModel`.
 
@@ -12,7 +12,7 @@
 using Amethyst.Storages.Mongo;
 using MongoDB.Bson.Serialization.Attributes;
 
-[BsonIgnoreExtraElements]
+[BsonIgnoreExtraElements] // мне слишком лень разъяснять за это но оно вас спасет
 public sealed class MyModel : DataModel
 {
     public static MongoModels<MyModel> Models { get; } = MongoDatabase.Main.Get<MyModel>();
