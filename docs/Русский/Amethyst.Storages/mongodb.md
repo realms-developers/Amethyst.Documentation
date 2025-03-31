@@ -12,7 +12,7 @@
 using Amethyst.Storages.Mongo;
 using MongoDB.Bson.Serialization.Attributes;
 
-[BsonIgnoreExtraElements] // мне слишком лень разъяснять за это но оно вас спасет
+[BsonIgnoreExtraElements]
 public sealed class MyModel : DataModel
 {
     public static MongoModels<MyModel> Models { get; } = MongoDatabase.Main.Get<MyModel>();
