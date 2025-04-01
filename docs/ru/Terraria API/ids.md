@@ -30,7 +30,7 @@ public static class LiquidID
 - `WallID`
 - `PaintID`
 - `PaintCoatingID`
-- `ProjecitleID`
+- `ProjectileID`
 - `InvasionID`
 - `GameModeID`
 - `PlayerSlotID`
