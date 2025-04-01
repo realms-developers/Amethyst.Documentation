@@ -1,7 +1,7 @@
 site_name: Amethyst Documentation
 
 repo_url: https://github.com/realms-developers/Amethyst.API/
-repo_name: Amethyst.API
+repo_name: Amethyst.API on GitHub
 
 theme:
   name: material
@@ -17,7 +17,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
-  
+
 plugins:
   - search
   - i18n:
@@ -28,6 +28,10 @@ plugins:
           default: true
           name: English
           build: true
+          link: /Amethyst.Documentation/
+          site_name: "Amethyst Documentation"
         - locale: ru
           name: Русский
           build: true
+          link: /Amethyst.Documentation/ru/
+          site_name: "Amethyst Документация"
