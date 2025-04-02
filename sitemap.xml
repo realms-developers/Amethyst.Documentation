@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+    </url>
+    <url>
+        <loc>Nonedebug/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedebug/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/debug/"/>
+    </url>
+    <url>
+        <loc>Nonelocalization/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelocalization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/localization/"/>
+    </url>
+    <url>
+        <loc>Nonemodules/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemodules/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/modules/"/>
+    </url>
+    <url>
+        <loc>Noneplugins/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneplugins/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/plugins/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Commands/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Commands/settings/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/settings/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Commands/syntax/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/syntax/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Commands/types/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/types/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/types/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Network/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Network/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Network/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Network/packets/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Network/packets/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Network/packets/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Permissions/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Permissions/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Permissions/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Permissions/handling/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Permissions/handling/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Permissions/handling/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Players/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Players/ext/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/ext/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/ext/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Players/netplayer_utils/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/netplayer_utils/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/netplayer_utils/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Players/playerutils/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/playerutils/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/playerutils/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Players/ssc/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/ssc/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/ssc/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Storages/config/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/config/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/config/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Storages/mongodb/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/mongodb/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/mongodb/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Storages/mysql/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/mysql/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/mysql/"/>
+    </url>
+    <url>
+        <loc>NoneAmethyst.Storages/sqlite/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/sqlite/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/sqlite/"/>
+    </url>
+    <url>
+        <loc>NoneTerraria%20API/ids/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneTerraria%20API/ids/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Terraria%20API/ids/"/>
+    </url>
+    <url>
+        <loc>NoneTerraria%20API/tiles/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneTerraria%20API/tiles/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Terraria%20API/tiles/"/>
+    </url>
+    <url>
+        <loc>Noneru/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Noneru/debug/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/debug/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedebug/"/>
+    </url>
+    <url>
+        <loc>Noneru/localization/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/localization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelocalization/"/>
+    </url>
+    <url>
+        <loc>Noneru/modules/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemodules/"/>
+    </url>
+    <url>
+        <loc>Noneru/plugins/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/plugins/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneplugins/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Commands/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Commands/settings/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/settings/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Commands/syntax/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/syntax/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Commands/types/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Commands/types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Commands/types/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Network/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Network/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Network/packets/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Network/packets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Network/packets/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Permissions/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Permissions/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Permissions/handling/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Permissions/handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Permissions/handling/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Players/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Players/ext/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/ext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/ext/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Players/netplayer_utils/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/netplayer_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/netplayer_utils/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Players/playerutils/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/playerutils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/playerutils/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Players/ssc/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Players/ssc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Players/ssc/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Storages/config/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/config/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Storages/mongodb/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/mongodb/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/mongodb/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Storages/mysql/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/mysql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/mysql/"/>
+    </url>
+    <url>
+        <loc>Noneru/Amethyst.Storages/sqlite/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Amethyst.Storages/sqlite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneAmethyst.Storages/sqlite/"/>
+    </url>
+    <url>
+        <loc>Noneru/Terraria%20API/ids/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Terraria%20API/ids/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneTerraria%20API/ids/"/>
+    </url>
+    <url>
+        <loc>Noneru/Terraria%20API/tiles/</loc>
+        <lastmod>2025-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Terraria%20API/tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneTerraria%20API/tiles/"/>
+    </url>
+</urlset>
