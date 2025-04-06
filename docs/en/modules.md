@@ -9,6 +9,7 @@ Modules are loaded from the `extensions/modules` directory, provided they are al
 ## Managing Modules
 
 After starting the server, use these console commands:
+
 - `modules list` - Lists loaded modules.
 - `modules allowlist` - Lists allowed modules.
 - `modules setallow` `<name with .dll> <true | false>` - Allow or block a module.

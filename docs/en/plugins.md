@@ -9,6 +9,7 @@ Plugins are loaded from the `extensions/plugins` directory, provided they are al
 ## Managing Plugins
 
 After starting the server, use these console commands:
+
 - `plugins list` - Lists loaded plugins.
 - `plugins allowlist` - Lists allowed plugins.
 - `plugins setallow` `<name with .dll> <true | false>` - Allow or block a plugin.
