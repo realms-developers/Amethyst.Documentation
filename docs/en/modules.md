@@ -56,7 +56,7 @@ Compile the module:
 dotnet build -c Release
 ```
 
-The compiled module (e.g., `MyModule.dll`) will be in `bin/Release/net7.0`. Move it to `extensions/modules` in the Amethyst root folder.
+The compiled module (e.g., `MyModule.dll`) will be in `bin/Release/net9.0`. Move it to `extensions/modules` in the Amethyst root folder.
 
 Start the server, run `/modules setallow MyModule.dll`, and reload the server. Your first module is now running!
 

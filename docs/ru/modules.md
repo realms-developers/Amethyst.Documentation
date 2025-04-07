@@ -55,7 +55,7 @@ public static class MyModule
 
 После того как вы создали модуль, его нужно скомпилировать: `dotnet build -c Release`.
 
-В папке `bin/Release/net7.0` будет скомпилированный модуль. В нашем случае `MyModule.dll`
+В папке `bin/Release/net9.0` будет скомпилированный модуль. В нашем случае `MyModule.dll`
 
 Переместите его в папку `extensions/modules` в корневой папке Amethyst.
 

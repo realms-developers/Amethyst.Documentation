@@ -64,6 +64,6 @@ Compile the plugin:
 dotnet build -c Release
 ```
 
-The compiled plugin (e.g., `MyPlugin.dll`) will be in `bin/Release/net7.0`. Move it to `extensions/plugins` in the Amethyst root folder.
+The compiled plugin (e.g., `MyPlugin.dll`) will be in `bin/Release/net9.0`. Move it to `extensions/plugins` in the Amethyst root folder.
 
 Start the server, run `/plugins setallow MyPlugin.dll`, and reload plugins with `/plugins reload`. Your first plugin is now active!

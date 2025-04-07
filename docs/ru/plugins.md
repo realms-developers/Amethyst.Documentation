@@ -67,7 +67,7 @@ public sealed class MyPlugin : PluginInstance
 
 После того как вы создали плагин, его нужно скомпилировать: `dotnet build -c Release`.
 
-В папке `bin/Release/net7.0` будет скомпилированный плагин. В нашем случае `MyPlugin.dll`
+В папке `bin/Release/net9.0` будет скомпилированный плагин. В нашем случае `MyPlugin.dll`
 
 Переместите его в папку `extensions/plugins` в корневой папке Amethyst.
 
