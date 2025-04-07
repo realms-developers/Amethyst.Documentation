@@ -10,10 +10,11 @@ Modules are loaded from the `extensions/modules` directory, provided they are al
 
 After starting the server, use these console commands:
 
-- `modules list` - Lists loaded modules.
-- `modules allowlist` - Lists allowed modules.
-- `modules setallow` `<name with .dll> <true | false>` - Allow or block a module.
-  - Example: `modules setallow MyModule.dll true`
+| Command                                             | Description                                                                 | Example                                  |
+|-----------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|
+| `modules list`                                      | Lists loaded modules.                                                       |                                          |
+| `modules allowlist`                                 | Lists allowed modules.                                                      |                                          |
+| `modules setallow <name with .dll> <true \| false>` | Allows or blocks a module.                                                  | `modules setallow MyModule.dll true`     |
 
 ## Creating a Module
 Install the `Amethyst.Templates` NuGet package first:

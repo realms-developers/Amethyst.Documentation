@@ -28,6 +28,7 @@ public sealed class MyModel : DataModel
 ```
 
 Key features:
+
 - `Name` property acts as primary key
 - Unique names enforced - no duplicate models
 - Built-in `Save()` and `Remove()` methods

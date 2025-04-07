@@ -10,13 +10,14 @@ Plugins are loaded from the `extensions/plugins` directory, provided they are al
 
 After starting the server, use these console commands:
 
-- `plugins list` - Lists loaded plugins.
-- `plugins allowlist` - Lists allowed plugins.
-- `plugins setallow` `<name with .dll> <true | false>` - Allow or block a plugin.
-  - Example: `plugins setallow MyPlugin.dll true`
-- `plugins load` - Load plugins.
-- `plugins unload` - Unload plugins.
-- `plugins reload` - Reload plugins.
+| Command                                             | Description                                                                | Example                                  |
+|-----------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------|
+| `plugins list`                                      | Lists loaded plugins.                                                      |                                          |
+| `plugins allowlist`                                 | Lists allowed plugins.                                                     |                                          |
+| `plugins setallow <name with .dll> <true \| false>` | Allows or blocks a plugin.                                                 | `plugins setallow MyPlugin.dll true`     |
+| `plugins load`                                      | Loads plugins.                                                             |                                          |
+| `plugins unload`                                    | Unloads plugins.                                                           |                                          |
+| `plugins reload`                                    | Reloads plugins.                                                           |                                          |
 
 ## Creating a Plugin
 Install the `Amethyst.Templates` NuGet package first:
