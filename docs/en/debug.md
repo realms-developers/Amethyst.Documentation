@@ -7,7 +7,7 @@ Debug mode (or developer mode) enables the following features:
 - Enables debug logs.
 - Displays reasons for ignored packets in the console.
 
-To start the server in debug mode, add the `-debugmode true` argument to the launch command (`start.bat` or `./start.sh`).
+To start the server in debug mode, add the `-debug` argument to the launch command (`start.bat` or `./start.sh`).
 
 # Usage in Plugins
 
