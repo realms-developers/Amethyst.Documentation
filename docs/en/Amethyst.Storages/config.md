@@ -47,6 +47,6 @@ MyConfigData data = config.Data;
 
 if (data.TestText == "default value of TestText")
 {
-    Console.WriteLine("Value is default!");
+    ModernConsole.WriteLine("Value is default!");
 }
 ```

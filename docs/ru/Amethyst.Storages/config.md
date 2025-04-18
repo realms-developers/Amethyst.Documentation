@@ -50,6 +50,6 @@ MyConfigData data = config.Data;
 
 if (data.TestText == "default value of TestText")
 {
-    Console.WriteLine("Значение по умолчанию!");
+    ModernConsole.WriteLine("Значение по умолчанию!");
 }
 ```
