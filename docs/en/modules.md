@@ -40,14 +40,19 @@ namespace MyModule;
 [AmethystModule("MyModule")]
 public static class MyModule
 {
-    private static bool IsInitialized;
+    private static bool _isInitialized;
+    
     [ModuleInitialize]
     public static void Initialize()
     {
-        if (IsInitialized) return;
+        if (IsInitialized) 
+        {
+            return;
+        }
+        
         IsInitialized = true;
 
-        // Module initialization code
+        // Module initialization code . . .
     }
 }
 ```
@@ -60,24 +65,3 @@ dotnet build -c Release
 The compiled module (e.g., `MyModule.dll`) will be in `bin/Release/net9.0`. Move it to `extensions/modules` in the Amethyst root folder.
 
 Start the server, run `/modules setallow MyModule.dll`, and reload the server. Your first module is now running!
-
-### Dependencies
-To use third-party libraries, specify dependencies in the module attributes:
-
-For a library at `deps/MyEpicLibrary.dll`:
-```cs
-using Amethyst.Extensions.Modules;
-
-namespace MyModule;
-
-[AmethystModule("MyModule", "deps/MyEpicLibrary.dll")]
-public static class MyModule
-...
-```
-
-Multiple dependencies:
-```cs
-[AmethystModule("MyModule", "deps/Library1.dll", "deps/Library2.dll", "deps/Library3.dll")]
-public static class MyModule
-...
-```

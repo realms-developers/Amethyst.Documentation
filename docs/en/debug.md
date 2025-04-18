@@ -19,7 +19,6 @@ Example:
 
 ```cs
 using Amethyst.Extensions.Plugins;
-
 using System;
 
 namespace MyPlugin;
@@ -28,7 +27,7 @@ public sealed class MyPlugin : PluginInstance
 {
     public override string Name => "MyPlugin";
 
-    public override Version Version => new Version(1, 0);
+    public override Version Version => new(1, 0);
 
     protected override void Load()
     {
@@ -39,6 +38,7 @@ public sealed class MyPlugin : PluginInstance
         {
             AmethystLog.Startup.Debug("Amethyst.Docs", "This message will definitely appear now.");
         }
+        
         AmethystLog.Startup.Info("Amethyst.Docs", "This message will also appear");
     }
 

@@ -8,7 +8,8 @@ Amethyst использует JSON в качестве основной конф
 public struct MyConfigData
 {
     public int TestValue;
-    public string TestText;
+    public string? TestText;
+    public string DefaultTestText = "Hello World!";
     public List<string> TestValues;
 }
 ```
@@ -18,32 +19,37 @@ public struct MyConfigData
 Пример использования:
 
 ```cs
-Configuration<MyConfigData> config = new Configuration<MyConfigData>();
+Configuration<MyConfigData> config = new Configuration<MyConfigData>(typeof(MyConfigData).FullName!, new());
 
 // загружает конфиг
 config.Load();
 
 // инициализация стандартных значений в конфиге
 config.Modify(InitializeConfig, true);
+
 void InitializeConfig(ref MyConfigData data)
 {
     if (data.TestText == null)
+    {
         data.TestText = "default value of TestText";
-
-    if (TestValues == null)
-        TestValues = new List<string>();
+    }
+    
+    // Нет необходимости инициализировать DefaultTestText
+    
+    if (data.TestValues == null)
+    {
+        data.TestValues = new List<string>();
+    }
 }
 ```
 
 Чтобы получить экземпляр `MyConfigData`, нужно использовать свойство `Data`:
 
 ```cs
-Configuration<MyConfigData> config;
-config.Load();
-config.Modify(InitializeConfig, true);
-
 MyConfigData data = config.Data;
 
 if (data.TestText == "default value of TestText")
-    Console.WriteLine("it works :O");
+{
+    Console.WriteLine("Значение по умолчанию!");
+}
 ```

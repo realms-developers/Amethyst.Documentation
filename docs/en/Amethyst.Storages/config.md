@@ -7,7 +7,8 @@ A configuration requires a `struct` type containing the necessary data:
 public struct MyConfigData
 {
     public int TestValue;
-    public string TestText;
+    public string? TestText;
+    public string DefaultTestText = "Hello World!";
     public List<string> TestValues;
 }
 ```
@@ -16,31 +17,36 @@ The `Configuration<T>` class manages your configuration - loading, saving, and m
 
 Example usage:
 ```cs
-Configuration<MyConfigData> config = new Configuration<MyConfigData>();
+Configuration<MyConfigData> config = new Configuration<MyConfigData>(typeof(MyConfigData).FullName!, new());
 
 // Load configuration
 config.Load();
 
-// Initialize default values
+// Initialize values
 config.Modify(InitializeConfig, true);
+
 void InitializeConfig(ref MyConfigData data)
 {
     if (data.TestText == null)
+    {
         data.TestText = "default value of TestText";
-
+    }
+    
+    // No need to initialize DefaultTestText
+    
     if (data.TestValues == null)
+    {
         data.TestValues = new List<string>();
+    }
 }
 ```
 
 Access configuration data through the `Data` property:
 ```cs
-Configuration<MyConfigData> config;
-config.Load();
-config.Modify(InitializeConfig, true);
-
 MyConfigData data = config.Data;
 
 if (data.TestText == "default value of TestText")
-    Console.WriteLine("it works :O");
+{
+    Console.WriteLine("Value is default!");
+}
 ```

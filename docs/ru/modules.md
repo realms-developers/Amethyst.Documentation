@@ -42,14 +42,19 @@ namespace MyModule;
 [AmethystModule("MyModule")]
 public static class MyModule
 {
-    private static bool IsInitialized;
+    private static bool _isInitialized;
+    
     [ModuleInitialize]
     public static void Initialize()
     {
-        if (IsInitialized) return;
+        if (IsInitialized)
+        {
+            return;
+        }
+        
         IsInitialized = true;
 
-        // код инициализации модуля
+        // код инициализации модуля . . .
     }
 }
 ```
@@ -63,32 +68,3 @@ public static class MyModule
 Затем запустите сервер, и введите команду `/modules setallow MyModule.dll`, а затем перезагрузите сервер.
 
 Вот и все, первый ваш модуль уже работает!
-
-### Зависимости
-Если вам понадобилась какая-либо сторонняя библиотека, то указав параметры `dependencies` в атрибутах модуля, API загрузит его.
-
-Например, нам нужна библиотека расположенная по пути `deps/MyEpicLibrary.dll`:
-
-Нужно указать путь к зависимости:
-
-```cs
-using Amethyst.Extensions.Modules;
-
-namespace MyModule;
-
-[AmethystModule("MyModule", "deps/MyEpicLibrary.dll")]
-public static class MyModule
-...
-```
-
-Можно подключать также несколько зависимостей:
-
-```cs
-using Amethyst.Extensions.Modules;
-
-namespace MyModule;
-
-[AmethystModule("MyModule", "deps/Library1.dll", "deps/Library2.dll", "deps/Library3.dll")]
-public static class MyModule
-...
-```
