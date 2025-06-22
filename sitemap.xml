@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Commands/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Commands/settings/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/settings/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Commands/syntax/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/syntax/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Commands/types/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/types/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/types/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Network/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Network/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Network/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Network/packets/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Network/packets/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Network/packets/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Permissions/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Permissions/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Permissions/handling/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Permissions/handling/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/handling/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Players/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Players/ext/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/ext/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ext/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Players/netplayer_utils/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/netplayer_utils/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/netplayer_utils/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Players/playerutils/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/playerutils/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/playerutils/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Players/ssc/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/ssc/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ssc/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Setup/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Setup/debug/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/debug/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/debug/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Setup/localization/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/localization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/localization/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Setup/modules/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/modules/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/modules/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Setup/plugins/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/plugins/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/plugins/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Storages/config/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/config/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/config/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Storages/mongodb/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/mongodb/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mongodb/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Storages/mysql/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/mysql/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mysql/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Storages/sqlite/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/sqlite/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/sqlite/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/ids/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/ids/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/ids/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/tiles/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/tiles/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/tiles/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/settings/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/settings/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/syntax/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/syntax/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/types/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Commands/types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Commands/types/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Network/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Network/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Network/packets/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Network/packets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Network/packets/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Permissions/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/handling/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Permissions/handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Permissions/handling/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Players/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ext/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/ext/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Players/netplayer_utils/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/netplayer_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/netplayer_utils/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Players/playerutils/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/playerutils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/playerutils/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ssc/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Players/ssc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Players/ssc/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/debug/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/debug/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/debug/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/localization/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/localization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/localization/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/modules/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/modules/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/plugins/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Setup/plugins/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Setup/plugins/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/config/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/config/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mongodb/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mongodb/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/mongodb/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mysql/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/mysql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/mysql/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/sqlite/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Storages/sqlite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Storages/sqlite/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/ids/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/ids/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/ids/"/>
+    </url>
+    <url>
+        <loc>https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/tiles/</loc>
+        <lastmod>2025-06-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://realms-developers.github.io/Amethyst.Documentation/ru/Terraria%20API/tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realms-developers.github.io/Amethyst.Documentation/Terraria%20API/tiles/"/>
+    </url>
+</urlset>
