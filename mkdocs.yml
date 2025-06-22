@@ -1,17 +1,43 @@
-site_name: Amethyst Documentation
+site_name: Amethyst API
+site_url: https://realms-developers.github.io/Amethyst.Documentation/
 
 repo_url: https://github.com/realms-developers/Amethyst.API/
 repo_name: Amethyst.API on GitHub
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
   palette:
-    scheme: slate
-    primary: purple
-    accent: deep purple
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   icon:
     logo: fontawesome/regular/gem
     repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/realms-developers/
 
 markdown_extensions:
   - pymdownx.superfences
@@ -28,10 +54,6 @@ plugins:
           default: true
           name: English
           build: true
-          link: /Amethyst.Documentation/
-          site_name: "Amethyst Documentation"
         - locale: ru
           name: Русский
           build: true
-          link: /Amethyst.Documentation/ru/
-          site_name: "Amethyst Документация"
